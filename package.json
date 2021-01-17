@@ -1,0 +1,19 @@
+{
+  "name": "ai-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "AI to play Tic-Tac-Toe with",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rthomp9/AI-Tic-Tac-Toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rthomp9/AI-Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/rthomp9/AI-Tic-Tac-Toe#readme"
+}
